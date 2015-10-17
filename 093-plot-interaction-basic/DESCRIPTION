@@ -1,7 +1,7 @@
-Title: Progress Bar
+Title: Plot interaction - basic
 Author: RStudio, Inc.
 AuthorUrl: http://www.rstudio.com/
 License: MIT
 DisplayMode: Showcase
-Tags: custom-message progress
+Tags: plot-interaction
 Type: Shiny

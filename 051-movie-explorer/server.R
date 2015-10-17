@@ -1,7 +1,6 @@
 library(ggvis)
 library(dplyr)
-library(RSQLite)
-library(RSQLite.extfuns)
+if (FALSE) library(RSQLite)
 
 # Set up handles to database tables on app start
 db <- src_sqlite("movies.db")
